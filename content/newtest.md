@@ -1,4 +1,4 @@
-Title: My Second Pelican Article
+Title: Bacon is not a dead language
 Date: 2015-10-12 18:42
 Category: Personal
 
